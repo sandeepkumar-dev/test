@@ -13,6 +13,7 @@ public class DemoApplication {
 		String name = "Kumar";
 		boolean isSub = true;
 
+
 		SpringApplication.run(DemoApplication.class, args);
 	}
 
