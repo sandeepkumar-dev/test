@@ -12,6 +12,8 @@ public class DemoApplication {
 		String name = "Sandeep";
 		String name = "Kumar";
 		boolean isSub = true;
+
+
 		SpringApplication.run(DemoApplication.class, args);
 	}
 
