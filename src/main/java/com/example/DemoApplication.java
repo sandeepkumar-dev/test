@@ -13,8 +13,16 @@ public class DemoApplication {
 		String surName = "Kumar";
 		boolean isSub = true;
 
+<<<<<<< Updated upstream
 		/*************** Error *************************/
 		// fixed error
+=======
+		// featur 1
+		// Somee login code with otp
+		// 100%
+		// ***********This above line will be store i a hidden git area + temp ********/
+
+>>>>>>> Stashed changes
 		System.out.println(x);
 		System.out.println(isSub);
 
