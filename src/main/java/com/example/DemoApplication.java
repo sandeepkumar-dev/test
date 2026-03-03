@@ -13,13 +13,13 @@ public class DemoApplication {
 		String surName = "Kumar";
 		boolean isSub = true;
 
-		
-        System.out.println(x);
+		/*************** Error *************************/
+		// fixed error
+		System.out.println(x);
 		System.out.println(isSub);
 
 		System.out.println(name);
 		System.out.println(surName);
-
 
 		SpringApplication.run(DemoApplication.class, args);
 	}
