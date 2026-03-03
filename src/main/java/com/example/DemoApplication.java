@@ -13,6 +13,10 @@ public class DemoApplication {
 		String surName = "Kumar";
 		boolean isSub = true;
 
+		
+        System.out.println(x);
+		System.out.println(isSub);
+
 		System.out.println(name);
 		System.out.println(surName);
 
