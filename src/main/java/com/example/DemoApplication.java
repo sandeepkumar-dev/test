@@ -10,8 +10,11 @@ public class DemoApplication {
 
 		int x = 100;
 		String name = "Sandeep";
-		String name = "Kumar";
+		String surName = "Kumar";
 		boolean isSub = true;
+
+		System.out.println(name);
+		System.out.println(surName);
 
 
 		SpringApplication.run(DemoApplication.class, args);
